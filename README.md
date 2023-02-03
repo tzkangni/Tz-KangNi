@@ -1,11 +1,13 @@
 ### Hi there, I'm Kang Ni (倪康 in Chinese)!  👋
 
-<!--
-**Tz-KangNi/Tz-KangNi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the School of Computer Science, Nanjing University of Posts and Telecommunications(NJUPT), Nanjing 210023, China
+- 🔭 I’m currently working on the School of Computer Science, Nanjing University of Posts and Telecommunications(NJUPT), Nanjing 210023, China.
+
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
