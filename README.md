@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kang Ni (倪康 in Chinese)!  👋
 
 <!--
 **Tz-KangNi/Tz-KangNi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
