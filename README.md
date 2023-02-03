@@ -11,15 +11,15 @@
       - 2020.12 ~ Present, Lecturer, the School of Computer Science, Nanjing University of Posts and Telecommunications. 
       - 2016.9 ~ 2020.10, Phd, Nanjing University of Aeronautics and Astronautics. 
       - 2013.9 ~ 2016.6, M.S., Changchun University of Technology.
-# ** How to reach me **
+# **How to reach me**
       - Emali: tznikang@163.com
       - Emali: tznikang@njupt.edu.cn
 
+# **Publications**
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **Fundings and Projects**
+
+# **Services**
+
+# **Students**
